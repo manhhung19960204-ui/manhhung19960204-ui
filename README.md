@@ -8,7 +8,7 @@ I'm an Embedded Software Engineer and Frondend Developer , passionate about lear
 
 ## Technology 
 
-|          | Technology were used |
+| Technology Type | Technology were used |
 | :--- | :--- |
 | **Languages** | C#/C/C++/Javascript/SQL |
 | **Engines/Platform/DBMS** | Angular/.NET Core/SQL Server |
