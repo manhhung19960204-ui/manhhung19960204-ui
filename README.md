@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**manhhung19960204-ui/manhhung19960204-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Embedded Software Engineer and Frondend Developer , passionate about learning firmware development , User interface and system architecture. Currently, I'm working on projects using the STM32L151. My interests include:
 
-Here are some ideas to get you started:
+* C/C++ firmware development
+* Real-time embedded systems
+* Website developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology 
+
+|          | Technology were used |
+| :--- | :--- |
+| **Languages** | C#/C/C++/Javascript/SQL |
+| **Engines/Platform/DBMS** | Angular/.NET Core/SQL Server |
+| **Embedded Platform** | AK Embedded Base Kit (STM32L151) |
